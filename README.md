@@ -1,9 +1,8 @@
 # 👋🏾 Hello there; welcome  
 
 [![AltSchool Badge](https://img.shields.io/badge/-Engineering-6773E5?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIcAAACHCAYAAAA850oKAAAACXBIWXMAACE4AAAhOAFFljFgAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAcmSURBVHgB7d3/...)](https://altschoolafrica.com/schools/engineering)
-
-[![Website Badge](https://img.shields.io/badge/-yourwebsite.com-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://yourwebsite.com)](https://yourwebsite.com)  
-[![Linkedin Badge](https://img.shields.io/badge/-yourlinkedinhandle-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedinhandle/)](https://www.linkedin.com/in/gideon-omole-5ba318180/)  
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-yourlinkedinhandle-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gideon-omole-5ba318180/)](https://www.linkedin.com/in/gideon-omole-5ba318180/)  
 
 I’m a **Cloud Support Engineer** with hands‑on experience supporting production environments and delivering highly available, secure, and resilient cloud infrastructure. I have a strong background working with **AWS**, **Linux**, and **Networking**, and I’m proficient with **Docker**, **Kubernetes**, and **Terraform** to build and manage robust, automated deployments.
 
